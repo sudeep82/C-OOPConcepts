@@ -1,0 +1,11 @@
+C:\EncapsulationApp\bin\Debug\netcoreapp2.1\EncapsulationApp.deps.json
+C:\EncapsulationApp\bin\Debug\netcoreapp2.1\EncapsulationApp.runtimeconfig.json
+C:\EncapsulationApp\bin\Debug\netcoreapp2.1\EncapsulationApp.runtimeconfig.dev.json
+C:\EncapsulationApp\bin\Debug\netcoreapp2.1\EncapsulationApp.dll
+C:\EncapsulationApp\bin\Debug\netcoreapp2.1\EncapsulationApp.pdb
+C:\EncapsulationApp\obj\Debug\netcoreapp2.1\EncapsulationApp.csprojAssemblyReference.cache
+C:\EncapsulationApp\obj\Debug\netcoreapp2.1\EncapsulationApp.csproj.CoreCompileInputs.cache
+C:\EncapsulationApp\obj\Debug\netcoreapp2.1\EncapsulationApp.AssemblyInfoInputs.cache
+C:\EncapsulationApp\obj\Debug\netcoreapp2.1\EncapsulationApp.AssemblyInfo.cs
+C:\EncapsulationApp\obj\Debug\netcoreapp2.1\EncapsulationApp.dll
+C:\EncapsulationApp\obj\Debug\netcoreapp2.1\EncapsulationApp.pdb

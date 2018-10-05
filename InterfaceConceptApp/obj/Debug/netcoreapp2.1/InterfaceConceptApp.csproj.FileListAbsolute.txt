@@ -1,0 +1,4 @@
+C:\InterfaceConceptApp\obj\Debug\netcoreapp2.1\InterfaceConceptApp.csprojAssemblyReference.cache
+C:\InterfaceConceptApp\obj\Debug\netcoreapp2.1\InterfaceConceptApp.csproj.CoreCompileInputs.cache
+C:\InterfaceConceptApp\obj\Debug\netcoreapp2.1\InterfaceConceptApp.AssemblyInfoInputs.cache
+C:\InterfaceConceptApp\obj\Debug\netcoreapp2.1\InterfaceConceptApp.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\InheritanceConsoleApp\bin\Debug\netcoreapp2.1\InheritanceConsoleApp.deps.json
+C:\InheritanceConsoleApp\bin\Debug\netcoreapp2.1\InheritanceConsoleApp.runtimeconfig.json
+C:\InheritanceConsoleApp\bin\Debug\netcoreapp2.1\InheritanceConsoleApp.runtimeconfig.dev.json
+C:\InheritanceConsoleApp\bin\Debug\netcoreapp2.1\InheritanceConsoleApp.dll
+C:\InheritanceConsoleApp\bin\Debug\netcoreapp2.1\InheritanceConsoleApp.pdb
+C:\InheritanceConsoleApp\obj\Debug\netcoreapp2.1\InheritanceConsoleApp.csprojAssemblyReference.cache
+C:\InheritanceConsoleApp\obj\Debug\netcoreapp2.1\InheritanceConsoleApp.csproj.CoreCompileInputs.cache
+C:\InheritanceConsoleApp\obj\Debug\netcoreapp2.1\InheritanceConsoleApp.AssemblyInfoInputs.cache
+C:\InheritanceConsoleApp\obj\Debug\netcoreapp2.1\InheritanceConsoleApp.AssemblyInfo.cs
+C:\InheritanceConsoleApp\obj\Debug\netcoreapp2.1\InheritanceConsoleApp.dll
+C:\InheritanceConsoleApp\obj\Debug\netcoreapp2.1\InheritanceConsoleApp.pdb
