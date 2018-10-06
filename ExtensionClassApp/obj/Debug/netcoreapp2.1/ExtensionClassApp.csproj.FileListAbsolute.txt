@@ -1,0 +1,11 @@
+C:\ExtensionClassApp\bin\Debug\netcoreapp2.1\ExtensionClassApp.deps.json
+C:\ExtensionClassApp\bin\Debug\netcoreapp2.1\ExtensionClassApp.runtimeconfig.json
+C:\ExtensionClassApp\bin\Debug\netcoreapp2.1\ExtensionClassApp.runtimeconfig.dev.json
+C:\ExtensionClassApp\bin\Debug\netcoreapp2.1\ExtensionClassApp.dll
+C:\ExtensionClassApp\bin\Debug\netcoreapp2.1\ExtensionClassApp.pdb
+C:\ExtensionClassApp\obj\Debug\netcoreapp2.1\ExtensionClassApp.csprojAssemblyReference.cache
+C:\ExtensionClassApp\obj\Debug\netcoreapp2.1\ExtensionClassApp.csproj.CoreCompileInputs.cache
+C:\ExtensionClassApp\obj\Debug\netcoreapp2.1\ExtensionClassApp.AssemblyInfoInputs.cache
+C:\ExtensionClassApp\obj\Debug\netcoreapp2.1\ExtensionClassApp.AssemblyInfo.cs
+C:\ExtensionClassApp\obj\Debug\netcoreapp2.1\ExtensionClassApp.dll
+C:\ExtensionClassApp\obj\Debug\netcoreapp2.1\ExtensionClassApp.pdb
